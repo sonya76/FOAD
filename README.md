@@ -7,4 +7,4 @@ https://github.com/sonya76/petstore
 # nodejs_planete_api
 https://github.com/sonya76/nodejs_planete_api
 # PHP
-https://github.com/sonya76/php/tree/main/travaux
+https://github.com/sonya76/php-cours/tree/main/travaux
